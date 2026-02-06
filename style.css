@@ -6,9 +6,9 @@
 
 .bloc {
     background-color: rgb(247, 228, 226);
-    padding: 10px;
-    margin: 10px;
-    border-radius: 30px;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 20px;
     text-align: center;
 } 
 
